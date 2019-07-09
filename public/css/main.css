@@ -1,0 +1,11 @@
+.form {
+    display: inline-block;
+    max-width: 500px;
+    text-align: center;
+}
+
+.form-control {
+    width: 100%;
+    margin: 5px 20px;
+    padding: 10px 5px;
+}
